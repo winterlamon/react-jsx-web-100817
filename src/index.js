@@ -1,1 +1,1 @@
-// Code goes here
+import {message} from './component/foo';
